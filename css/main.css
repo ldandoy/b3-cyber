@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: bisque;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+}
+
+#title {
+    color: aqua;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.red {
+    color: #7d0404 !important;
+}
+
+.green {
+    color: greenyellow !important;
+}
